@@ -1,0 +1,69 @@
+Chatbot
+===========
+
+What's a Chatbot?
+	"Chat bots are computer programs that mimic conversation with people using artificial intelligence. They can transform the way you interact with the internet from a series of self-initiated tasks to a quasi-conversation."
+	Alexa, Siri, Google Now
+
+Why?
+	"Why does anyone care about chatbots? They look like simple text based services… what’s the big deal?"
+		Integrate into tools people already use (Facebook Messenger, Whatsapp etc.) --> "people are using messenger apps more than they are using social networks"
+	Automate Workflows - Replace (partially) human intervention --> noone needed to take a call at pizza place
+	https://www.watson.ch/Schweiz/Digital/294392594-Pr%C3%A4mienverbilligung-gef%C3%A4llig--In-St--Gallen-wird-dir-nun-im-Facebook-Messenger-geholfen
+
+Bot Framework
+- Overview (what's a bot technically) (image --> custom Visio)
+	- NET/Node
+	- REST API
+- Connectors (image)
+- Conversation (1:1, group)
+- Dialog (image)
+- FormFlow (build up model)
+
+Example Project
+- DevNetwork Bot
+	Add new DevNetwork at Date
+		DevNetwork contains number of Presentations
+		Presentations has Title, Summary, Tags and Presenter
+	--> Show Model	
+	Cancel a DevNetwork (--> inform all users about it)
+	
+	Ask for next DevNetwork, ask when presentation about topic is (--> used in 2nd part with LUIS)
+
+- Architecture/Create Project with Template, structure
+	- Create new Conversation
+		- Add dialog about adding new DevNetwork
+			- Stacked Dialog --> add new Presentation
+	
+
+- Emulator
+
+Live Coding
+
+=============
+Coffee Break
+=============
+
+Interpretation of Text/Machine Learning
+- examples
+	Different kind of writing styles
+		--> check with audience, how to ask for next c# presentation
+
+LUIS
+
+Live Coding:
+- Using LUIS
+
+Deploying on Azure
+Connect to Skype
+
+Conclusion
+Usage of Bots in our Environment
+- Analyse System (Azure)
+- Bugs
+- Manual
+
+Material:
+https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview
+Github repo (TODO)
+Getting Started with Building Bots with Microsoft's Bot Framework (https://app.pluralsight.com/library/courses/microsoft-bot-framework-getting-started/table-of-contents)
