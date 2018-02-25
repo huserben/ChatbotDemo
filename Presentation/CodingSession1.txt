@@ -1,0 +1,23 @@
+- Show Bot Template
+- Show Application structure with default app
+	- Controller and RootDialog
+- Demo default app with Emulator
+
+=====================
+
+- Show how to check for input ("stupid via contains")
+- Add new Dialog for adding DevNetwork
+	- Ask for Date
+	- Validation (valid date as input, give user option to change)
+	--> PromptConfirm
+	- Add Rooms
+	--> PromptChoice
+	return DevNetwork from Dialog
+	
+--> Add Presentation via FormFlow
+	- Extend Model with FormFlow Method
+	- Call to add presentation
+	
+--> List DevNetworks and Presentations
+	- Use predefined method and just run through
+	
