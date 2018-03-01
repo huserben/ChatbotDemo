@@ -8,11 +8,18 @@
 - Show how to check for input ("stupid via contains")
 - Add new Dialog for adding DevNetwork
 	- Ask for Date
+		--> Empty Handler --> return
+		--> 01.02 Call Dialog
 	- Validation (valid date as input, give user option to change)
+		--> 01.02 IsValidDate
+		--> Add check for datemin, if true call itself
 	--> PromptConfirm
-	- Add Rooms
+		--> Set Date for DevNetwork, Call PromptChoice, Add AfterDateValidation
+	- Add Rooms (01.04 Rooms)
 	--> PromptChoice
+		--> Set Room to devnetwork, set context do done.
 	return DevNetwork from Dialog
+	--> Show in action.
 	
 --> Add Presentation via FormFlow
 	- Extend Model with FormFlow Method

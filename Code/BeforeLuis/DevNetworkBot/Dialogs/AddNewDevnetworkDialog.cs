@@ -14,7 +14,10 @@ namespace DevNetworkBot.Dialogs
       {
          "Athen 5",
          "Boston",
-         "Berlin"
+         "Berlin",
+         "Amsterdam 3",
+         "Brisbane",
+         "Video Conference Room"
       };
 
       private readonly DevNetwork createdDevNetwork = new DevNetwork();
