@@ -1,0 +1,30 @@
+- Show Website (www.luis.ai)
+ --> benjamin.huser@ch.abb.com / Personal Account
+
+- show how to create new app
+- Show Entities and Intents
+--> Fill in intents gathered during presentation
+
+--> Show Train feature and improve intents
+
+- Show Settings quickly and Publish
+
+=====================
+
+Show App with existing DevNetworks (02.01 Load DevNetworks)
+
+- Make Root Dialog derive from LUIS Dialog
+	--> APP Key etc.
+	
+- Remove "ExecuteActionsAsync" and refactor existing methods (02.02 Make LUIS Methods)
+--> Show how it works now
+
+--> Go to LUIS and improve "None Handling"
+
+- Add "Get next DevNetwork" Intent (02.03 GetNextDevNetwork)
+	--> Extract Method to List single dev network from list all
+
+
+- Add "Get Presentation" Intent
+ - Explain Results
+ 

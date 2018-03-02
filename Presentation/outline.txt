@@ -49,10 +49,9 @@ Interpretation of Text/Machine Learning
 	Different kind of writing styles
 		--> check with audience, how to ask for next c# presentation
 
-LUIS
+LUIS (www.luis.ai) --> 
 
-Live Coding:
-- Using LUIS
+Live Coding/LUIS Demo
 
 Deploying on Azure
 Connect to Skype
