@@ -9,7 +9,7 @@ Sway Presentation is available here:
 ## Code
 You can find two Projects in this Repostiory under *Code*.  
 
-###BeforeLuis
+### BeforeLuis
 Contains the state of the application after the first coding session.
   
 ### AfterLuis
