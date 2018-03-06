@@ -6,7 +6,9 @@
 =====================
 
 - Show how to check for input ("stupid via contains")
-- Add new Dialog for adding DevNetwork
+	- Post a message to the User (Show Greeting Message)
+	- Await input and check for text. (ExecuteActionsAsync)
+- Add new Dialog for adding DevNetwork (AddNewDevnetworkDialog)
 	- Ask for Date
 		--> Empty Handler --> return
 		--> 01.02 Call Dialog
