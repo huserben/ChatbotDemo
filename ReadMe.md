@@ -9,13 +9,14 @@ Sway Presentation is available here:
 ## Code
 You can find two Projects in this Repostiory under *Code*.  
 
-### BeforeLuis
+### Coding Session 1
 Contains the state of the application after the first coding session.
   
-### AfterLuis
+### Coding Session 2
 Includes the changes to make use of LUIS.
 
 ## Links
 - [Bot Framework](https://dev.botframework.com/)  
 - [Bot Builder SDK Documenation](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview)  
+- [Templates for Visual Studio](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-quickstart)  
 - [Language Understanding Intelligent Service](www.luis.ai)
