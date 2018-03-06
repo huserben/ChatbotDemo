@@ -14,7 +14,7 @@
 Show App with existing DevNetworks (02.01 Load DevNetworks)
 
 - Make Root Dialog derive from LUIS Dialog
-	--> APP Key etc.
+	--> APP Key etc. (ConfigurationManager.AppSettings)
 	
 - Remove "ExecuteActionsAsync" and refactor existing methods (02.02 Make LUIS Methods)
 --> Show how it works now
@@ -26,5 +26,21 @@ Show App with existing DevNetworks (02.01 Load DevNetworks)
 
 
 - Add "Get Presentation" Intent
- - Explain Results
+ - Explain Results field
+ - Filter presentations
  
+==========================
+
+Azure (benjamin.huser@ch.abb.com/Personal)
+- Show WebAppTemplate
+
+- Show already deployed web app bot.
+ --> Built-in chat
+ 
+ Deploy
+	- Publish to existing
+	- Set HTTPS
+	- Remove additional files
+	
+-> Skype (benjamin.huser@ch.abb.com/Personal Account)
+ - Only possible for "owner"
