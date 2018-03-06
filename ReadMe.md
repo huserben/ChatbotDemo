@@ -19,4 +19,5 @@ Includes the changes to make use of LUIS.
 - [Bot Framework](https://dev.botframework.com/)  
 - [Bot Builder SDK Documenation](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview)  
 - [Templates for Visual Studio](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-quickstart)  
+- [Chatbot Emulator](https://github.com/Microsoft/BotFramework-Emulator)  
 - [Language Understanding Intelligent Service](www.luis.ai)
